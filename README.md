@@ -1,8 +1,9 @@
-### Hi there 👋
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rbrtbrnschn&theme=material-palenight)
 
 ![](https://github-readme-stats.vercel.app/api?username=rbrtbrnschn&show_icons=true&theme=material-palenight&count_private=true&include_all_commits=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rbrtbrnschn&layout=compact&theme=material-palenight)
+
+### Current Project:
 
 ![[current project]()](https://github-readme-stats.vercel.app/api/pin/?username=rbrtbrnschn&repo=todo-hub&theme=buefy)
 
