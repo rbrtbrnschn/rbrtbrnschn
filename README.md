@@ -1,10 +1,10 @@
 ### Welcome 
 
-```json
+```css
 {
     "coding since" : "sept, 2019",
     "languages" : ["js","HTML","css","python","bash"],
-    
+    "education" : "TU-Dresden 3rd semester"  
 }
 ```
 
