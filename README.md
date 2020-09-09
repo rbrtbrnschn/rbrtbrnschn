@@ -1,16 +1,9 @@
-### Welcome 
-
-```css
-{
-    "coding since" : "sept, 2019",
-    "languages" : ["js","HTML","css","python","bash"],
-    "education" : "TU-Dresden 3rd semester"  
-}
-```
+### Welcome
 
 ![](https://github-readme-stats.vercel.app/api?username=rbrtbrnschn&show_icons=true&theme=buefy&count_private=true&include_all_commits=true)
-
+<!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rbrtbrnschn&layout=compact&theme=buefy)
+-->
 
 ### Current Project:
 
