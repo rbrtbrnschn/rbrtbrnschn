@@ -5,7 +5,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rbrtbrnschn&layout=compact&theme=buefy)
 -->
 
-### Current Project:
+<hr/>
 
 ![[current project]()](https://github-readme-stats.vercel.app/api/pin/?username=rbrtbrnschn&repo=todo-hub&theme=buefy)
 
