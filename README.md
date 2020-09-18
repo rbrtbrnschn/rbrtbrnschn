@@ -4,13 +4,15 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rbrtbrnschn&layout=compact&theme=buefy)
 
-<!--
-THIS IS A COMMENT
--->
+
 
 <hr/>
 
+<!--
 ![[current project](https://github.com/rbrtbrnschn/readme-generator)](https://github-readme-stats.vercel.app/api/pin/?username=rbrtbrnschn&repo=readme-generator&theme=buefy)
+-->
+
+![![](https://github-readme-stats.vercel.app/api/pin/?username=rbrtbrnschn&repo=readme-generator&theme=buefy)](https://github.com/rbrtbrnschn/readme-generator)
 
 
 
