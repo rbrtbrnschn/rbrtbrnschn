@@ -13,7 +13,7 @@ Comment
 -->
 ### Currently working on
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=rbrtbrnschn&repo=ruby-games&theme=buefy)]()
+[![](https://github-readme-stats.vercel.app/api/pin/?username=rbrtbrnschn&repo=ruby-games&theme=buefy)](https://github.com/rbrtbrnschn/ruby-games)
 
 <hr/>
 
