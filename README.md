@@ -13,7 +13,7 @@ Comment
 -->
 ### Currently working on
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=rbrtbrnschn&repo=pomodoro-timer&theme=buefy)](https://github.com/rbrtbrnschn/pomodoro-timer)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=rbrtbrnschn&repo=spotify-api-wrapper&theme=buefy)](https://github.com/rbrtbrnschn/spotify-api-wrapper)
 
 <hr/>
 
