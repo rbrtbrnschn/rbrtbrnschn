@@ -13,7 +13,7 @@ Comment
 -->
 ### Currently working on
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=rbrtbrnschn&repo=spotify-api-wrapper&theme=buefy)](https://github.com/rbrtbrnschn/spotify-api-wrapper)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=rbrtbrnschn&repo=bash-cheat-sheet&theme=buefy)](https://github.com/rbrtbrnschn/bash-cheat-sheet)
 
 <hr/>
 
