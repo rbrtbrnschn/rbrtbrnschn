@@ -13,12 +13,13 @@ Comment
 -->
 ### Currently working on
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=rbrtbrnschn&repo=bash-cheat-sheet&theme=buefy)](https://github.com/rbrtbrnschn/bash-package-manager)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=rbrtbrnschn&repo=bash-package-manager&theme=buefy)](https://github.com/rbrtbrnschn/bash-package-manager)
 
 <hr/>
-###### Personal Sites:
+#### Personal Sites:
 
 [Portfolio](https://rbrtbrnschn.urspace.io/)
+
 [Annalee](https://annalee.rbrtbrnschn.dev)
 
 <!--
