@@ -13,7 +13,7 @@ Comment
 -->
 ### Currently working on
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=rbrtbrnschn&repo=bpmv2&theme=buefy)](https://github.com/rbrtbrnschn/bpmv2)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=rbrtbrnschn&repo=bash-package-manager&theme=buefy)](https://github.com/rbrtbrnschn/bash-package-manager)
 
 <hr/>
 #### Personal Sites:
