@@ -16,9 +16,12 @@ Comment
 [![](https://github-readme-stats.vercel.app/api/pin/?username=rbrtbrnschn&repo=bash-package-manager&theme=buefy)](https://github.com/rbrtbrnschn/bash-package-manager)
 
 <hr/>
+
 #### Personal Sites:
 
 [Portfolio](https://rbrtbrnschn.urspace.io/)
+
+[Blog](https://blog.rbrtbrnschn.dev)
 
 [Annalee](https://annalee.rbrtbrnschn.dev)
 
