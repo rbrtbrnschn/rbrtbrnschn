@@ -13,7 +13,7 @@ Comment
 -->
 ### Currently working on
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=rbrtbrnschn&repo=bash-package-manager&theme=buefy)](https://github.com/rbrtbrnschn/bash-package-manager)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=rbrtbrnschn&repo=mr-taskman&theme=buefy)](https://github.com/rbrtbrnschn/mr-taskman)
 
 <hr/>
 
@@ -21,9 +21,9 @@ Comment
 
 [Portfolio](https://rbrtbrnschn.urspace.io/)
 
-[Blog](https://blog.rbrtbrnschn.dev)
+[Blog](https://rbrtbrnschn.dev)
 
-[Annalee](https://annalee.rbrtbrnschn.dev)
+[Statify](https://statify.rbrtbrnschn.dev)
 
 <!--
 **rbrtbrnschn/rbrtbrnschn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
