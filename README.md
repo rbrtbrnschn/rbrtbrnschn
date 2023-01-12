@@ -19,11 +19,8 @@ Comment
 
 #### Personal Sites:
 
-[Portfolio](https://rbrtbrnschn.urspace.io/)
+[Bam Elephant](https://bam-elephant.com/)
 
-[Blog](https://rbrtbrnschn.dev)
-
-[Statify](https://statify.rbrtbrnschn.dev)
 
 <!--
 **rbrtbrnschn/rbrtbrnschn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
